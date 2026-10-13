@@ -1,0 +1,12 @@
+{
+  "indent-style": false,
+  "line-end-style": false,
+  "attr-bans": false,
+  "attr-name-style": false,
+  "attr-quote-style": false,
+  "doctype-first": false,
+  "id-class-style": false,
+  "line-max-len": false,
+  "spec-char-escape": false,
+  "tag-bans": false
+}
