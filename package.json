@@ -4,7 +4,7 @@
   "scripts": {
     "lint": "htmllint *.html",
     "test": "echo \"Tests passed\" && exit 0",
-    "build": "mkdir -p dist && cp index.html style.css script.js dist/"
+    "build": "mkdir -p dist && cp index.html style.css script.js photo.jpg dist/"
   },
   "devDependencies": {
     "htmllint-cli": "^0.0.7"
