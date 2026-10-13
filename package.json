@@ -7,6 +7,6 @@
     "build": "mkdir -p dist && cp index.html style.css script.js dist/"
   },
   "devDependencies": {
-    "htmllint": "^0.8.0"
+    "htmllint-cli": "^0.0.7"
   }
 }
