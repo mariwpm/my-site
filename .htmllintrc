@@ -1,0 +1,13 @@
+{
+  "attr-bans": false,
+  "indent-style": false,
+  "line-max-len": false,
+  "spec-char-escape": false,
+  "tag-bans": false,
+  "attr-name-style": false,
+  "doctype-first": false,
+  "id-class-style": false,
+  "img-req-src": true,
+  "tag-pair": true,
+  "tagname-lowercase": true
+}
