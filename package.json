@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "lint": "htmllint *.html",
-    "test": "echo \"Tests passed\" && exit 0",
+    "test": "echo \"Tests passed\" && exit 1",
     "build": "mkdir -p dist && cp index.html style.css script.js dist/"
   },
   "devDependencies": {
